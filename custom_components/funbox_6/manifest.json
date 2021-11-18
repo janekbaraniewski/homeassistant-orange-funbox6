@@ -1,0 +1,15 @@
+{
+  "domain": "funbox_6",
+  "name": "Orange Funbox6",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/funbox_6",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@janekbaraniewski"
+  ],
+  "iot_class": "local_polling"
+}
